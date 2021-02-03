@@ -1,0 +1,60 @@
+# Project exclude paths
+/.gradle/
+/Problems/A small version of the Battleship game/out/
+/Problems/A small version of the Battleship game/out/production/classes/
+/Problems/Accordance/out/
+/Problems/Accordance/out/production/classes/
+/Problems/Backslash problem/out/
+/Problems/Backslash problem/out/production/classes/
+/Problems/Between two numbers/out/
+/Problems/Between two numbers/out/production/classes/
+/Problems/Check a number is positive/out/
+/Problems/Check a number is positive/out/production/classes/
+/Problems/Complex numbers/out/
+/Problems/Complex numbers/out/production/classes/
+/Problems/Counting/out/
+/Problems/Counting/out/production/classes/
+/Problems/Create an euphonious word/out/
+/Problems/Create an euphonious word/out/production/classes/
+/Problems/Currencies/out/
+/Problems/Currencies/out/production/classes/
+/Problems/Currency comparison/out/
+/Problems/Currency comparison/out/production/classes/
+/Problems/Deposit/out/
+/Problems/Deposit/out/production/classes/
+/Problems/Desks/out/
+/Problems/Desks/out/production/classes/
+/Problems/Find the first occurrence of the word  the/out/
+/Problems/Find the first occurrence of the word  the/out/production/classes/
+/Problems/First digit/out/
+/Problems/First digit/out/production/classes/
+/Problems/Fix the program/out/
+/Problems/Fix the program/out/production/classes/
+/Problems/Getting letters from the Alphabet/out/
+/Problems/Getting letters from the Alphabet/out/production/classes/
+/Problems/Groundhogs at the party/out/
+/Problems/Groundhogs at the party/out/production/classes/
+/Problems/Last digit/out/
+/Problems/Last digit/out/production/classes/
+/Problems/Letters/out/
+/Problems/Letters/out/production/classes/
+/Problems/National assembly/out/
+/Problems/National assembly/out/production/classes/
+/Problems/Print Username/out/
+/Problems/Print Username/out/production/classes/
+/Problems/Right equation/out/
+/Problems/Right equation/out/production/classes/
+/Problems/Shapeshifter/out/
+/Problems/Shapeshifter/out/production/classes/
+/Problems/The max of three numbers/out/
+/Problems/The max of three numbers/out/production/classes/
+/Problems/The sequence 1 2 2 3 3 3/out/
+/Problems/The sequence 1 2 2 3 3 3/out/production/classes/
+/Problems/Unique characters/out/
+/Problems/Unique characters/out/production/classes/
+/Problems/Volume of a cube/out/
+/Problems/Volume of a cube/out/production/classes/
+/Smart Calculator/task/build/
+/Smart Calculator/task/out/
+/Smart Calculator/task/out/production/classes/
+/Smart Calculator/task/out/test/classes/

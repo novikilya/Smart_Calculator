@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        TODO("Remove this line and write your solution here")
+        val name = readLine()!!
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4707#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 11 Jan 2021 06:41:38 UTC
+record: -1

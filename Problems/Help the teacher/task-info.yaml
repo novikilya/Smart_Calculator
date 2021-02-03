@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // The previous code that forms the report
+
+    TODO()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10729#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 27 Jan 2021 14:06:50 UTC
+record: -1
